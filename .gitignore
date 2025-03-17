@@ -1,0 +1,37 @@
+# 환경 변수 파일 (.env)
+.env
+frontend/.env
+backend/.env
+
+# Node.js (프론트엔드)
+node_modules/
+npm-debug.log
+yarn-error.log
+build/
+dist/
+
+# Python (백엔드)
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Firebase 관련 설정 파일
+firebase-debug.log
+
+#기타 실험용 파일
+NYC api 요청 코드.py
+구글 api.py
+레딧 api.py
+~$ 지역 우회 기능을 갖춘 스마트 내비게이션 개발 계획서.docx
+위험 지역 우회 기능을 갖춘 스마트 내비게이션 개발 계획서.docx
+# 서비스 계정 키 파일
+safe-nyc-map-project-0f5b77cdd5e7.json
+
+# 데이터 파일
+data/
+
+# 코드 파일
+code/
+
+
